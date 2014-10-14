@@ -1,0 +1,12 @@
+.. _cookbook_gravmag_harvester_iterator:
+
+GravMag: Iterate through a 3D gravity inversion by planting anomalous densities
+================================================================================
+
+.. raw:: html
+
+    [<a href="../_static/cookbook/gravmag_harvester_iterator.py">source code</a>]
+
+.. literalinclude:: ../../cookbook/gravmag_harvester_iterator.py
+    :language: python
+    :linenos:
